@@ -1,10 +1,8 @@
+// src/App.tsx
 import AuthPage from './components/AuthPage'
-import './App.css'
 
 function App() {
-  return (
-    <AuthPage />
-  )
+  return <AuthPage />
 }
 
 export default App
